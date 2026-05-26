@@ -1,0 +1,7 @@
+ .LIGHT {
+            background-color: hsl(240, 100%, 80%);
+        }
+.DARK {
+            background-color: hsl(340, 100%, 20%);
+            color: hsl(0, 0%, 100%);
+        }
