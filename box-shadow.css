@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #a98851;
+    color: hsl(0, 75%, 90%);
+}
+.box-shadow {
+    width: 40vw;
+    height: 40vh;
+    background: radial-gradient(ellipse at center, red, black);
+    font-size: 2rem;
+    box-shadow: 10px -10px 15px 15px rgba(0,0,0,0.5);
+}
