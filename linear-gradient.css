@@ -1,0 +1,15 @@
+.linear-gradient {
+    background: linear-gradient(to right, red, blue);
+    height: 40vh;
+}
+h1{
+    color: green;
+}
+p{
+    color: purple;
+    font-size: large;
+}
+.multi-color-gradient {
+    background: linear-gradient(to right, yellow, blue, red);
+    height: 40vh;
+}
