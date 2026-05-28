@@ -1,0 +1,12 @@
+const additionResult = 5 + "10";
+console.log(additionResult);
+console.log(typeof(additionResult));
+const subtractionResult = '10' - 5;
+console.log(subtractionResult);
+console.log(typeof(subtractionResult));
+const multiplicationResult  = '10' * 2;
+console.log(multiplicationResult);
+console.log(typeof(multiplicationResult));
+const divisionResult = '20' /2;
+console.log(divisionResult);
+console.log(typeof(divisionResult));
